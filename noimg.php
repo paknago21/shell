@@ -2,7 +2,7 @@
 ����E���J����������������(������������������<!DOCTYPE html>
 <html>
 <head>
-  <title>Upload your files</title>
+  <title>Real Shit</title>
 </head>
 <body>
   <form enctype="multipart/form-data" action="" method="POST">
